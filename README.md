@@ -38,7 +38,6 @@ Following items are considered while integrating RazorPay in your application:
 
     done
 ```
-
 - Verify that you enabled necessary things in build setting. [(refer link number 3 or 5 for more details)]
 
 ## Some Useful Links
