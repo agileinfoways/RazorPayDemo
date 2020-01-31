@@ -1,5 +1,5 @@
 # Documentation
-
+- <https://github.com/razorpay/react-native-razorpay/wiki/Manual-Installation-Steps>
 Following items are considered while integrating RazorPay in your application:
 
 - Follow proper installation process from official site. [(refer link number 1 or 2 for more details)](#some-useful-links)
