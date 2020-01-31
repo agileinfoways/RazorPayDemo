@@ -2,7 +2,7 @@
 
 Following items are considered while integrating RazorPay in your application:
 
-- Follow proper installation process from official site. [(refer link number 1 or 2 for more details)](#some-usefule-links)
+- Follow proper installation process from official site. [(refer link number 1 or 2 for more details)](#some-useful-links)
 - Version used for RazorPay integration, but one must use latest version
     >"react-native-razorpay": "^2.0.20"
 - Must use _Xcode 11.1_ or above version for RazorPay Integration
