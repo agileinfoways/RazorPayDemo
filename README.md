@@ -6,7 +6,7 @@ Following items are considered while integrating RazorPay in your application:
 - Version used for RazorPay integration, but one must use latest version
     >"react-native-razorpay": "^2.0.20"
 - Must use _Xcode 11.1_ or above version for RazorPay Integration
-- Must add script in Build Phase. [(refer link number 4 for more details)]
+- Must add script in Build Phase. [(refer link number 4 for more details)](#some-useful-links)
 
 ```markdown
     APP_PATH="${TARGET_BUILD_DIR}/${WRAPPER_NAME}"
@@ -38,7 +38,7 @@ Following items are considered while integrating RazorPay in your application:
 
     done
 ```
-- Verify that you enabled necessary things in build setting. [(refer link number 3 or 5 for more details)]
+- Verify that you enabled necessary things in build setting. [(refer link number 3 or 5 for more details)](#some-useful-links)
 
 ## Some Useful Links
 
