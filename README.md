@@ -43,7 +43,7 @@ Following items are considered while integrating RazorPay in your application:
 ## Some Useful Links
 
 - For RazorPay manual installation process (Github)
-  <https://github.com/razorpay/react-native-razorpay/wiki/Manual-Installation-Steps>
+    <https://github.com/razorpay/react-native-razorpay/wiki/Manual-Installation-Steps>
 - For RazorPay installation process (Official Doc)
   <https://razorpay.com/docs/payment-gateway/react-native-integration/custom/>
 - Used for fixing iOS issue 
