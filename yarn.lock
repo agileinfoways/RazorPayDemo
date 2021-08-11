@@ -5262,9 +5262,9 @@ path-key@^3.0.0, path-key@^3.1.0:
   integrity sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q==
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@^1.7.0:
   version "1.8.0"
@@ -5489,6 +5489,11 @@ react-native-gesture-handler@^1.5.3:
     hoist-non-react-statics "^2.3.1"
     invariant "^2.2.4"
     prop-types "^15.7.2"
+
+react-native-razorpay@^2.0.20:
+  version "2.2.7"
+  resolved "https://registry.yarnpkg.com/react-native-razorpay/-/react-native-razorpay-2.2.7.tgz#2bc47fca4e3069ae18966f60d445bab30613169b"
+  integrity sha512-5TxqYCsWN93NmxZtba4WX+W5mk44ErST1UfsTxtNp2Mp0stTkg6azQX1J6Y+zCDhzRcxwW3j0TN1v2CdNy4Jrw==
 
 react-native-reanimated@^1.7.0:
   version "1.7.0"
